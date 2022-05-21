@@ -9,7 +9,10 @@ Purpose
 
 Comparisons
 
-  I was provided with a spreadsheet containing the ticker name, starting date, opening, high, low, closing and adjusted closing price, as well as the volume of each stock. During the module I worked my way through creating a macro that provided each ticker, total daily volume and the percentage return on each stock. The analysis of the green stocks from 2017 to 2018 showed stocks in this category perfored significantly better in 2017 compared to 2018, as seen below: <img width="842" alt="Screen Shot 2022-05-21 at 4 24 42 PM" src="https://user-images.githubusercontent.com/105119531/169668381-a673286f-c1c6-44e6-8b95-7f28abaf0ce4.png">
+  I was provided with a spreadsheet containing the ticker name, starting date, opening, high, low, closing and adjusted closing price, as well as the volume of each stock. During the module I worked my way through creating a macro that provided each ticker, total daily volume and the percentage return on each stock. The analysis of the green stocks from 2017 to 2018 showed stocks in this category perfored significantly better in 2017 compared to 2018, as seen below:
+  
+  <img width="842" alt="Screen Shot 2022-05-21 at 4 24 42 PM" src="https://user-images.githubusercontent.com/105119531/169668381-a673286f-c1c6-44e6-8b95-7f28abaf0ce4.png">
+
 <img width="791" alt="Screen Shot 2022-05-21 at 4 25 14 PM" src="https://user-images.githubusercontent.com/105119531/169668385-a16acb12-ebfc-48f8-8788-47099afaf031.png">
 
 Coding
