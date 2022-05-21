@@ -99,4 +99,23 @@ Code included below:
     
  ## Summary
  
+  General Pros and Cons of Refactoring Code
+    
+  Pros
+   
+   There are several pros to refactoring code. Refactored code is cleaner, more efficient and can help you debug problems with origianl code.
+   
+  Cons
+  
+  The cons associated with refactoring code include potintial repeated errors from the original code, incompatible data, and syntax errors.  
+  
  
+  Pros and Cons of the Refactored VBA Script
+  
+  Pros
+  
+  The original VBA script had the advantage of providing an outline for the refactored script, saving time rewriting code. There was also the benefit in decreasing the run time of the macro.
+  
+  Cons
+  
+  The cons associated with refactoring the origianal VBA script for me was an increase in syntax errors, as well as the added time working back throught the code changing the labels in the code to match the variables.
