@@ -3,13 +3,13 @@
   
 Purpose
   
-  The purpose of this project was to refactor code in VBA, originally used to analyse specific green stocks for the years of 2017 and 2018.  The code was refactored in an effort to be more efficient.
+  The purpose of this project was to refactor code in VBA, originally used to analyze specific green stocks for the years of 2017 and 2018.  The code was refactored in an effort to be more efficient.
 
 ## Results
 
 Comparisons
 
-  I was provided with a spreadsheet containing the ticker name, starting date, opening, high, low, closing and adjusted closing price, as well as the volume of each stock. During the module I worked my way through creating a macro that provided each ticker, total daily volume and the percentage return on each stock. The analysis of the green stocks from 2017 to 2018 showed stocks in this category perfored significantly better in 2017 compared to 2018, as seen below:
+  I was provided with a spreadsheet containing the ticker name, starting date, opening, high, low, closing and adjusted closing price, as well as the volume of each stock. During the module I worked my way through creating a macro that provided each ticker, total daily volume and the percentage return on each stock. The analysis of the green stocks from 2017 to 2018 showed stocks in this category performed significantly better in 2017 compared to 2018, as seen below:
   
   <img width="842" alt="Screen Shot 2022-05-21 at 4 24 42 PM" src="https://user-images.githubusercontent.com/105119531/169668381-a673286f-c1c6-44e6-8b95-7f28abaf0ce4.png">
 
@@ -17,7 +17,7 @@ Comparisons
 
 Coding
 
-  I was provided with an outline, used the code from the module and refactored it to be more effecient in providing me with the same analysis. The refactored code was was faster in both cases. 
+  I was provided with an outline, used the code from the module and refactored it to be more efficient in providing me with the same analysis. The refactored code was was faster in both cases. 
     
     Time to run code 2017 original:   0.3515...
     Time to run code 2017 refactored: 0.0781...
@@ -106,11 +106,11 @@ Code included below:
     
   Pros
    
-   There are several pros to refactoring code. Refactored code is cleaner, more efficient and can help you debug problems with origianl code.
+   There are several pros to refactoring code. Refactored code is cleaner, more efficient and can help you debug problems with original code.
    
   Cons
   
-  The cons associated with refactoring code include potintial repeated errors from the original code, incompatible data, and syntax errors.  
+  The cons associated with refactoring code include potential repeated errors from the original code, incompatible data, and syntax errors.  
   
  
   Pros and Cons of the Refactored VBA Script
@@ -121,4 +121,4 @@ Code included below:
   
   Cons
   
-  The cons associated with refactoring the origianal VBA script for me was an increase in syntax errors, as well as the added time working back throught the code changing the labels in the code to match the variables.
+  The cons associated with refactoring the original VBA script for me was an increase in syntax errors, as well as the added time working back through the code changing the labels in the code to match the variables.
